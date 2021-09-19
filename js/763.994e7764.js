@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmtusi"]=self["webpackChunkmtusi"]||[]).push([[763],{1763:(s,e,u)=>{u.r(e),u.d(e,{default:()=>i});var n=u(3673),l=u(2323);const t=(0,n._)("h1",null,"Hello News!",-1);function r(s,e){return(0,n.wg)(),(0,n.iD)(n.HY,null,[t,(0,n._)("h2",null,"News Id is "+(0,l.zw)(s.$route.params.id),1)],64)}const c={};c.render=r;const i=c}}]);
